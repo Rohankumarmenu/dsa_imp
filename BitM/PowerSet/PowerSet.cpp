@@ -41,4 +41,4 @@ vector<int>gk;
     }
 };
 
-//Few test cases to validate the solution ,it will some time;
+//Few test cases to validate the solution ,it will fail some time;
