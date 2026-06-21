@@ -1,0 +1,3 @@
+https://leetcode.com/problems/last-stone-weight/
+
+https://www.youtube.com/watch?v=FLQQx84XqFE
