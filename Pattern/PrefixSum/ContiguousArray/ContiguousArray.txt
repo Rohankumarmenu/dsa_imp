@@ -1,0 +1,3 @@
+https://leetcode.com/problems/contiguous-array/
+
+https://www.youtube.com/watch?v=AcSWGXBu-Xo&t=419s
