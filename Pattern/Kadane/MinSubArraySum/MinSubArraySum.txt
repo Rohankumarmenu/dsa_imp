@@ -1,0 +1,3 @@
+https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1
+
+//2nd Quest Kadane Problem same as MaxSubArraySum
