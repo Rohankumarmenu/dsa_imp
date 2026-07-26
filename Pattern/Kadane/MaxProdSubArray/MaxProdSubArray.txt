@@ -1,3 +1,5 @@
 https://www.youtube.com/watch?v=hnswaLJvr6g //OBSERVATION based
 
 https://leetcode.com/problems/maximum-product-subarray/?utm_source=chatgpt.com
+
+https://www.youtube.com/watch?v=5IWaUD-VRk4 //Kadane's Algo
